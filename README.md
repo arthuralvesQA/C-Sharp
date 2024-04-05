@@ -1,2 +1,2 @@
 # C-Sharp
- Algoritmos implementados utilizando a linguagem C#
+ Este repositório tem como objetivo demonstrar conhecimentos inerentes à Lógica de Programação, com a utilização da Linguagem C#.
